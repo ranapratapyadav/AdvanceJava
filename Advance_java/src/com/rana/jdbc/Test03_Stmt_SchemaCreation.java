@@ -5,7 +5,7 @@ import java.sql.Connection;
 import java.sql.Statement;
 import java.sql.SQLException;
 
-public class Test02_Stmt_SchemaCreation {
+public class Test03_Stmt_SchemaCreation {
 	public static void main(String[] args) 
 			throws ClassNotFoundException, SQLException {
 		
